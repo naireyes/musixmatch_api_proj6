@@ -1,0 +1,524 @@
+[
+  {
+    "artist": {
+      "artist_id": 252,
+      "artist_name": "Weezer",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
+      "artist_rating": 76,
+      "artist_twitter_url": "https://twitter.com/Weezer",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2018-10-19T02:57:56Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 13997897,
+      "artist_name": "Weezer feat. Lil Wayne",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 6,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 252,
+              "artist_name": "Weezer",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
+              "artist_rating": 76,
+              "artist_twitter_url": "https://twitter.com/Weezer",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2018-10-19T02:57:56Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 23619,
+              "artist_name": "lil wayne",
+              "artist_name_translation_list": [
+                {
+                  "artist_name_translation": {
+                    "language": "EN",
+                    "translation": "Lil Wayne"
+                  }
+                }
+              ],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "Lil Wayne" },
+                { "artist_alias": "リル ウェイン" },
+                { "artist_alias": "xiaoweien" },
+                { "artist_alias": "Lil' Wayne" }
+              ],
+              "artist_rating": 83,
+              "artist_twitter_url": "https://twitter.com/liltunechi",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2017-07-01T07:01:13Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2013-12-03T23:16:24Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 13997862,
+      "artist_name": "Weezer feat. Sara Bareilles",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 6,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 252,
+              "artist_name": "Weezer",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
+              "artist_rating": 76,
+              "artist_twitter_url": "https://twitter.com/Weezer",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2018-10-19T02:57:56Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 78058,
+              "artist_name": "Sara Bareilles",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "shalabalailesi" },
+                { "artist_alias": "Sarah Bareilles" },
+                { "artist_alias": "Sara Barielles" }
+              ],
+              "artist_rating": 70,
+              "artist_twitter_url": "https://twitter.com/SaraBareilles",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-11-05T11:27:00Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2014-02-23T14:32:41Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 29089350,
+      "artist_name": "Weezer feat. Hayley Williams",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 21,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 252,
+              "artist_name": "Weezer",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
+              "artist_rating": 76,
+              "artist_twitter_url": "https://twitter.com/Weezer",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2018-10-19T02:57:56Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 256086,
+              "artist_name": "Hayley Williams",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "Hayley Nichole Williams" }
+              ],
+              "artist_rating": 66,
+              "artist_twitter_url": "http://twitter.com/yelyahwilliams",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-11-05T11:27:51Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2016-10-12T01:56:41Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 13997861,
+      "artist_name": "Weezer feat. Kenny G",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 9,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 252,
+              "artist_name": "Weezer",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
+              "artist_rating": 76,
+              "artist_twitter_url": "https://twitter.com/Weezer",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2018-10-19T02:57:56Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 6563,
+              "artist_name": "Kenny G",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "けにー・じー" },
+                { "artist_alias": "keng ni ji" },
+                { "artist_alias": "Kenny G." },
+                { "artist_alias": "Kanny G" }
+              ],
+              "artist_rating": 62,
+              "artist_twitter_url": "https://twitter.com/officialkennyg",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2018-02-02T21:01:20Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2014-02-23T14:32:41Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 25030431,
+      "artist_name": "Weezer feat. The Cast of Jackass 3D",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 7,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 252,
+              "artist_name": "Weezer",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
+              "artist_rating": 76,
+              "artist_twitter_url": "https://twitter.com/Weezer",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2018-10-19T02:57:56Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 28992331,
+              "artist_name": "the cast of Jackass 3D",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 1,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2015-12-11T16:18:17Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2013-12-18T22:00:21Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 13997866,
+      "artist_name": "Weezer feat. Allison Allport",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 1,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 252,
+              "artist_name": "Weezer",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
+              "artist_rating": 76,
+              "artist_twitter_url": "https://twitter.com/Weezer",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2018-10-19T02:57:56Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 24909338,
+              "artist_name": "Allison Allport",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 1,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-12-03T14:34:38Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2013-06-26T10:07:50Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 13786247,
+      "artist_name": "Weezer vs. Evidence feat. The Alchemist, Aceyalone, Rakaa & 88-Keys",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 6,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 252,
+              "artist_name": "Weezer",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
+              "artist_rating": 76,
+              "artist_twitter_url": "https://twitter.com/Weezer",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2018-10-19T02:57:56Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 19162,
+              "artist_name": "Evidence",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [{ "artist_alias": "エヴィデンス" }],
+              "artist_rating": 29,
+              "artist_twitter_url": "https://twitter.com/evidence",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-11-05T11:25:26Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 107784,
+              "artist_name": "The Alchemist",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "ザ アルケミスト" },
+                { "artist_alias": "Alchemist" }
+              ],
+              "artist_rating": 39,
+              "artist_twitter_url": "https://twitter.com/Alchemist",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-07-19T08:27:35Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 3422,
+              "artist_name": "Aceyalone",
+              "artist_name_translation_list": [
+                {
+                  "artist_name_translation": {
+                    "language": "JA",
+                    "translation": "ACEYALONE"
+                  }
+                }
+              ],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "ACEYALONE" },
+                { "artist_alias": "Aceyyalone" }
+              ],
+              "artist_rating": 25,
+              "artist_twitter_url": "https://twitter.com/Aceyalone",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-11-05T11:25:03Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 37207,
+              "artist_name": "Rakaa",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "Raaka Iriscience" },
+                { "artist_alias": "Rakka Iriscience" },
+                { "artist_alias": "Rakaa Iriscience" },
+                { "artist_alias": "Iriscience" },
+                { "artist_alias": "Rakaa-Iriscience" }
+              ],
+              "artist_rating": 9,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2015-12-15T10:48:25Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 213253,
+              "artist_name": "88-Keys",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "88Keys" },
+                { "artist_alias": "88 Keys" }
+              ],
+              "artist_rating": 24,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-11-29T00:15:19Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2014-02-14T07:46:46Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 35374763,
+      "artist_name": "Weezer berlo",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 1,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2018-02-17T05:31:50Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 33900307,
+      "artist_name": "Vic Mensa feat. Weezer",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 15,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 13922459,
+              "artist_name": "Vic Mensa",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "ビックメンサ" },
+                { "artist_alias": "Victor Kwesi Mensah" }
+              ],
+              "artist_rating": 53,
+              "artist_twitter_url": "http://twitter.com/VicMensaKTD",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2015-04-12T18:28:03Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 252,
+              "artist_name": "Weezer",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
+              "artist_rating": 76,
+              "artist_twitter_url": "https://twitter.com/Weezer",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2018-10-19T02:57:56Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2017-07-27T14:15:49Z"
+    }
+  }
+]

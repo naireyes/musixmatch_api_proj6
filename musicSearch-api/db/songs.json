@@ -1,0 +1,350 @@
+[
+  {
+    "track": {
+      "track_id": 18316166,
+      "track_name": "Butterfly",
+      "track_name_translation_list": [],
+      "track_rating": 6,
+      "commontrack_id": 11337442,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 0,
+      "has_subtitles": 0,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 11041287,
+      "album_name": "Download to Donate for Haiti",
+      "artist_id": 13997866,
+      "artist_name": "Weezer feat. Allison Allport",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-feat-Allison-Allport/Butterfly?utm_source=application&utm_campaign=api&utm_medium=",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-feat-Allison-Allport/Butterfly/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "restricted": 0,
+      "updated_time": "2012-09-19T14:37:50Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 145960912,
+      "track_name": "Love doumani",
+      "track_name_translation_list": [],
+      "track_rating": 1,
+      "commontrack_id": 81043628,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 0,
+      "has_subtitles": 0,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 28192866,
+      "album_name": "La réussite",
+      "artist_id": 35374763,
+      "artist_name": "Weezer berlo",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Love-doumani?utm_source=application&utm_campaign=api&utm_medium=",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Love-doumani/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "restricted": 0,
+      "updated_time": "2018-02-17T05:32:05Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 19,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "World",
+              "music_genre_name_extended": "World",
+              "music_genre_vanity": "World"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 145960904,
+      "track_name": "Almami gariko",
+      "track_name_translation_list": [],
+      "track_rating": 1,
+      "commontrack_id": 81043633,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 0,
+      "has_subtitles": 0,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 28192866,
+      "album_name": "La réussite",
+      "artist_id": 35374763,
+      "artist_name": "Weezer berlo",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Almami-gariko?utm_source=application&utm_campaign=api&utm_medium=",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Almami-gariko/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "restricted": 0,
+      "updated_time": "2018-02-17T05:32:05Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 19,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "World",
+              "music_genre_name_extended": "World",
+              "music_genre_vanity": "World"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 145960914,
+      "track_name": "Hombory rap tigui",
+      "track_name_translation_list": [],
+      "track_rating": 1,
+      "commontrack_id": 81043625,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 0,
+      "has_subtitles": 0,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 28192866,
+      "album_name": "La réussite",
+      "artist_id": 35374763,
+      "artist_name": "Weezer berlo",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Hombory-rap-tigui?utm_source=application&utm_campaign=api&utm_medium=",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Hombory-rap-tigui/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "restricted": 0,
+      "updated_time": "2018-02-17T05:32:05Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 19,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "World",
+              "music_genre_name_extended": "World",
+              "music_genre_vanity": "World"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 145960903,
+      "track_name": "31paw",
+      "track_name_translation_list": [],
+      "track_rating": 1,
+      "commontrack_id": 81043634,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 0,
+      "has_subtitles": 0,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 28192866,
+      "album_name": "La réussite",
+      "artist_id": 35374763,
+      "artist_name": "Weezer berlo",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/31paw?utm_source=application&utm_campaign=api&utm_medium=",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/31paw/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "restricted": 0,
+      "updated_time": "2018-02-17T05:32:05Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 19,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "World",
+              "music_genre_name_extended": "World",
+              "music_genre_vanity": "World"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 145960907,
+      "track_name": "Bara débé monai bo",
+      "track_name_translation_list": [],
+      "track_rating": 1,
+      "commontrack_id": 81043632,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 0,
+      "has_subtitles": 0,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 28192866,
+      "album_name": "La réussite",
+      "artist_id": 35374763,
+      "artist_name": "Weezer berlo",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Bara-d%C3%A9b%C3%A9-monai-bo?utm_source=application&utm_campaign=api&utm_medium=",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Bara-d%C3%A9b%C3%A9-monai-bo/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "restricted": 0,
+      "updated_time": "2018-02-17T05:32:05Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 19,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "World",
+              "music_genre_name_extended": "World",
+              "music_genre_vanity": "World"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 145960909,
+      "track_name": "Ils n'ont pas le niveau",
+      "track_name_translation_list": [],
+      "track_rating": 1,
+      "commontrack_id": 81043626,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 0,
+      "has_subtitles": 0,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 28192866,
+      "album_name": "La réussite",
+      "artist_id": 35374763,
+      "artist_name": "Weezer berlo",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Ils-n-ont-pas-le-niveau?utm_source=application&utm_campaign=api&utm_medium=",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Ils-n-ont-pas-le-niveau/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "restricted": 0,
+      "updated_time": "2018-02-17T05:32:05Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 19,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "World",
+              "music_genre_name_extended": "World",
+              "music_genre_vanity": "World"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 145960902,
+      "track_name": "L'avant goût",
+      "track_name_translation_list": [],
+      "track_rating": 1,
+      "commontrack_id": 81043629,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 0,
+      "has_subtitles": 0,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 28192866,
+      "album_name": "La réussite",
+      "artist_id": 35374763,
+      "artist_name": "Weezer berlo",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/L-avant-go%C3%BBt?utm_source=application&utm_campaign=api&utm_medium=",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/L-avant-go%C3%BBt/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "restricted": 0,
+      "updated_time": "2018-02-17T05:32:05Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 19,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "World",
+              "music_genre_name_extended": "World",
+              "music_genre_vanity": "World"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 145960905,
+      "track_name": "An be bo",
+      "track_name_translation_list": [],
+      "track_rating": 1,
+      "commontrack_id": 81043630,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 0,
+      "has_subtitles": 0,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 28192866,
+      "album_name": "La réussite",
+      "artist_id": 35374763,
+      "artist_name": "Weezer berlo",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/An-be-bo?utm_source=application&utm_campaign=api&utm_medium=",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/An-be-bo/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "restricted": 0,
+      "updated_time": "2018-02-17T05:32:05Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 19,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "World",
+              "music_genre_name_extended": "World",
+              "music_genre_vanity": "World"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 145960911,
+      "track_name": "La réussite",
+      "track_name_translation_list": [],
+      "track_rating": 1,
+      "commontrack_id": 81043627,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 0,
+      "has_subtitles": 0,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 28192866,
+      "album_name": "La réussite",
+      "artist_id": 35374763,
+      "artist_name": "Weezer berlo",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/La-r%C3%A9ussite?utm_source=application&utm_campaign=api&utm_medium=",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/La-r%C3%A9ussite/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "restricted": 0,
+      "updated_time": "2018-02-17T05:32:05Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 19,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "World",
+              "music_genre_name_extended": "World",
+              "music_genre_vanity": "World"
+            }
+          }
+        ]
+      }
+    }
+  }
+]
