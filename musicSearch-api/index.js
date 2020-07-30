@@ -18,4 +18,37 @@ app.get("/songs", (req, resp) => {
   });
 });
 
+app.post("/songs", (req, res) => {
+  Songs.create(req.body).then((songs) => {
+    res.json(songs);
+  });
+});
+
+// app.put("/artist/:artist_name", (req, res) => {
+//   Artist.findOneAndUpdate(
+//     { "artist[artist_name]": req.params.artist_name },
+//     req.body,
+//     {
+//       new: true,
+//     }
+//   ).then((artist) => {
+//     res.json(artist);
+//   });
+// });
+
+app.put("/artist/:id", (req, res) => {
+  console.log(req.body);
+  Artist.findOneAndUpdate({ _id: req.params.id }, req.body, {
+    new: true,
+  }).then((artist) => {
+    res.json(artist);
+  });
+});
+
+app.delete("/artist/:id", (req, res) => {
+  Artist.findOneAndRemove({ _id: req.params.id }).then((artist) => {
+    res.json(artist);
+  });
+});
+
 app.listen(3000, () => console.log("listening on port 3000"));
