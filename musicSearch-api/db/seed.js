@@ -2,9 +2,9 @@
 // const fs = require("fs");
 
 // api_url =
-//   "https://api.musixmatch.com/ws/1.1/artist.search?q_artist='weezer'&apikey=32c8199fe7c9fd1838eedcc9eac26830";
+//   "https://api.musixmatch.com/ws/1.1/chart.artists.get?page=1&page_size=50&country=us&apikey=32c8199fe7c9fd1838eedcc9eac26830";
 // api_url_songs =
-//   "https://api.musixmatch.com/ws/1.1/track.search?q_artist='weezer'&apikey=32c8199fe7c9fd1838eedcc9eac26830";
+//   "https://api.musixmatch.com/ws/1.1/chart.tracks.get?chart_name=top&page=1&page_size=50&country=us&f_has_lyrics=1&apikey=32c8199fe7c9fd1838eedcc9eac26830";
 // fetch(api_url)
 //   .then((res) => res.json())
 //   .then((res) => {
@@ -33,17 +33,17 @@
 //     });
 //   });
 
-// const Artist = require("../models/Artist");
-// const artists = require("./artists.json");
+const Artist = require("../models/Artist");
+const artists = require("./artists.json");
 const Songs = require("../models/Songs");
 const songs = require("./songs.json");
 
-// Artist.deleteMany({}).then(() => {
-//   Artist.create(artists).then((artists) => {
-//     console.log(artists);
-//     process.exit();
-//   });
-// });
+Artist.deleteMany({}).then(() => {
+  Artist.create(artists).then((artists) => {
+    console.log(artists);
+    process.exit();
+  });
+});
 
 Songs.deleteMany({}).then(() => {
   Songs.create(songs).then((songs) => {

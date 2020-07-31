@@ -1,135 +1,1384 @@
 [
   {
     "artist": {
-      "artist_id": 252,
-      "artist_name": "Weezer",
-      "artist_name_translation_list": [],
+      "artist_id": 259675,
+      "artist_name": "Taylor Swift",
+      "artist_name_translation_list": [
+        {
+          "artist_name_translation": {
+            "language": "JA",
+            "translation": "テイラー・スウィフト"
+          }
+        }
+      ],
       "artist_comment": "",
       "artist_country": "US",
-      "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
-      "artist_rating": 76,
-      "artist_twitter_url": "https://twitter.com/Weezer",
+      "artist_alias_list": [
+        { "artist_alias": "テイラー・スウィフト" },
+        { "artist_alias": "泰勒·史薇芙特" },
+        { "artist_alias": "Taylor Alison Swift" }
+      ],
+      "artist_rating": 100,
+      "artist_twitter_url": "https://twitter.com/taylorswift13",
       "artist_credits": { "artist_list": [] },
       "restricted": 0,
-      "updated_time": "2018-10-19T02:57:56Z"
+      "updated_time": "2013-11-05T11:27:51Z"
     }
   },
   {
     "artist": {
-      "artist_id": 13997897,
-      "artist_name": "Weezer feat. Lil Wayne",
+      "artist_id": 27082035,
+      "artist_name": "Morgan Wallen",
       "artist_name_translation_list": [],
       "artist_comment": "",
       "artist_country": "",
       "artist_alias_list": [],
-      "artist_rating": 6,
+      "artist_rating": 65,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2014-03-22T13:50:10Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 27658352,
+      "artist_name": "Luke Combs",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 72,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2014-03-15T20:45:39Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 45643815,
+      "artist_name": "Jawsh 685 feat. Jason Derulo",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 62,
       "artist_twitter_url": "",
       "artist_credits": {
         "artist_list": [
           {
             "artist": {
-              "artist_id": 252,
-              "artist_name": "Weezer",
+              "artist_id": 45130044,
+              "artist_name": "Jawsh 685",
               "artist_name_translation_list": [],
               "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
-              "artist_rating": 76,
-              "artist_twitter_url": "https://twitter.com/Weezer",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 62,
+              "artist_twitter_url": "",
               "artist_credits": { "artist_list": [] },
               "restricted": 0,
-              "updated_time": "2018-10-19T02:57:56Z"
+              "updated_time": "2020-04-24T11:04:12Z"
             }
           },
           {
             "artist": {
-              "artist_id": 23619,
-              "artist_name": "lil wayne",
+              "artist_id": 40665287,
+              "artist_name": "Jason Derulo",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 52,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2019-10-18T23:50:36Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2020-06-11T03:21:37Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 27840,
+      "artist_name": "Maroon 5",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [
+        { "artist_alias": "マルーン ファイブ" },
+        { "artist_alias": "marron 5" },
+        { "artist_alias": "マルーン５" },
+        { "artist_alias": "Maroon5" }
+      ],
+      "artist_rating": 91,
+      "artist_twitter_url": "https://twitter.com/maroon5",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2017-02-04T03:20:51Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 24505463,
+      "artist_name": "Harry Styles",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [{ "artist_alias": "ハリースタイルズ" }],
+      "artist_rating": 92,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2014-12-05T15:36:27Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 45035319,
+      "artist_name": "DaBaby feat. Roddy Ricch",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 60,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 32769092,
+              "artist_name": "DaBaby",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [
+                { "artist_alias": "Jonathan Lyndale Kirk" },
+                { "artist_alias": "Jonathan Kirk" }
+              ],
+              "artist_rating": 84,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2016-11-24T08:15:00Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 33380448,
+              "artist_name": "Roddy Ricch",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 86,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2017-04-03T12:46:37Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2020-04-17T13:52:45Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 33909962,
+      "artist_name": "Megan Thee Stallion",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 80,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2017-07-16T23:08:40Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 33258132,
+      "artist_name": "Lewis Capaldi",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 87,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2017-03-11T22:33:14Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 15507,
+      "artist_name": "Blake Shelton",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [
+        { "artist_alias": "ブレイク・シェルトン" },
+        { "artist_alias": "bulaike xieerdun" }
+      ],
+      "artist_rating": 69,
+      "artist_twitter_url": "https://twitter.com/BLAKESHELTON",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2013-11-05T11:25:24Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 33491593,
+      "artist_name": "Dua Lipa",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [{ "artist_alias": "デュアリパ" }],
+      "artist_rating": 95,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2017-04-28T14:30:50Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 486280,
+      "artist_name": "J. Cole",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [
+        { "artist_alias": "ジェイ・コール" },
+        { "artist_alias": "jie kou" },
+        { "artist_alias": "Jermaine Lamarr Cole" }
+      ],
+      "artist_rating": 85,
+      "artist_twitter_url": "https://twitter.com/JColeNC",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2013-11-05T11:28:58Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 24704782,
+      "artist_name": "DJ Khaled feat. Drake, Lil Wayne & Rick Ross",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 49,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 219514,
+              "artist_name": "DJ Khaled",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "DJキヤレド" },
+                { "artist_alias": "Khaled." }
+              ],
+              "artist_rating": 75,
+              "artist_twitter_url": "https://twitter.com/djkhaled",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-11-05T11:27:46Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 33491453,
+              "artist_name": "Drake",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "PL",
+              "artist_alias_list": [
+                { "artist_alias": "どれいく" },
+                { "artist_alias": "deleike" }
+              ],
+              "artist_rating": 95,
+              "artist_twitter_url": "https://twitter.com/drake",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2017-04-28T23:14:56Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2013-10-13T08:50:56Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 46039579,
+      "artist_name": "Taylor Swift feat. Bon Iver",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 54,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 259675,
+              "artist_name": "Taylor Swift",
               "artist_name_translation_list": [
                 {
                   "artist_name_translation": {
-                    "language": "EN",
-                    "translation": "Lil Wayne"
+                    "language": "JA",
+                    "translation": "テイラー・スウィフト"
                   }
                 }
               ],
               "artist_comment": "",
               "artist_country": "US",
               "artist_alias_list": [
-                { "artist_alias": "Lil Wayne" },
-                { "artist_alias": "リル ウェイン" },
-                { "artist_alias": "xiaoweien" },
-                { "artist_alias": "Lil' Wayne" }
+                { "artist_alias": "テイラー・スウィフト" },
+                { "artist_alias": "泰勒·史薇芙特" },
+                { "artist_alias": "Taylor Alison Swift" }
               ],
-              "artist_rating": 83,
-              "artist_twitter_url": "https://twitter.com/liltunechi",
+              "artist_rating": 100,
+              "artist_twitter_url": "https://twitter.com/taylorswift13",
               "artist_credits": { "artist_list": [] },
               "restricted": 0,
-              "updated_time": "2017-07-01T07:01:13Z"
+              "updated_time": "2013-11-05T11:27:51Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 322832,
+              "artist_name": "Bon Iver",
+              "artist_name_translation_list": [
+                {
+                  "artist_name_translation": {
+                    "language": "JA",
+                    "translation": "ボン・イヴェール"
+                  }
+                }
+              ],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [{ "artist_alias": "ボン・イヴェール" }],
+              "artist_rating": 70,
+              "artist_twitter_url": "https://twitter.com/boniver",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2015-12-09T18:52:33Z"
             }
           }
         ]
       },
       "restricted": 0,
-      "updated_time": "2013-12-03T23:16:24Z"
+      "updated_time": "2020-07-24T04:00:44Z"
     }
   },
   {
     "artist": {
-      "artist_id": 13997862,
-      "artist_name": "Weezer feat. Sara Bareilles",
+      "artist_id": 28830691,
+      "artist_name": "Jack Harlow",
       "artist_name_translation_list": [],
       "artist_comment": "",
       "artist_country": "",
       "artist_alias_list": [],
-      "artist_rating": 6,
+      "artist_rating": 77,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2015-11-14T10:05:19Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 29247465,
+      "artist_name": "Billie Eilish",
+      "artist_name_translation_list": [
+        {
+          "artist_name_translation": {
+            "language": "JA",
+            "translation": "ビリー・アイリッシュ"
+          }
+        }
+      ],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [{ "artist_alias": "ビリー・アイリッシュ" }],
+      "artist_rating": 96,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2015-12-19T12:38:24Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 27340182,
+      "artist_name": "Gabby Barrett",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 58,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2014-03-09T17:21:12Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 42721286,
+      "artist_name": "Blake Shelton feat. Gwen Stefani",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 39,
       "artist_twitter_url": "",
       "artist_credits": {
         "artist_list": [
           {
             "artist": {
-              "artist_id": 252,
-              "artist_name": "Weezer",
-              "artist_name_translation_list": [],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
-              "artist_rating": 76,
-              "artist_twitter_url": "https://twitter.com/Weezer",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2018-10-19T02:57:56Z"
-            }
-          },
-          {
-            "artist": {
-              "artist_id": 78058,
-              "artist_name": "Sara Bareilles",
+              "artist_id": 15507,
+              "artist_name": "Blake Shelton",
               "artist_name_translation_list": [],
               "artist_comment": "",
               "artist_country": "US",
               "artist_alias_list": [
-                { "artist_alias": "shalabalailesi" },
-                { "artist_alias": "Sarah Bareilles" },
-                { "artist_alias": "Sara Barielles" }
+                { "artist_alias": "ブレイク・シェルトン" },
+                { "artist_alias": "bulaike xieerdun" }
               ],
-              "artist_rating": 70,
-              "artist_twitter_url": "https://twitter.com/SaraBareilles",
+              "artist_rating": 69,
+              "artist_twitter_url": "https://twitter.com/BLAKESHELTON",
               "artist_credits": { "artist_list": [] },
               "restricted": 0,
-              "updated_time": "2013-11-05T11:27:00Z"
+              "updated_time": "2013-11-05T11:25:24Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 40515760,
+              "artist_name": "Gwen Stefani",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 53,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2019-10-14T20:42:55Z"
             }
           }
         ]
       },
       "restricted": 0,
-      "updated_time": "2014-02-23T14:32:41Z"
+      "updated_time": "2019-12-13T05:45:35Z"
     }
   },
   {
     "artist": {
-      "artist_id": 29089350,
-      "artist_name": "Weezer feat. Hayley Williams",
+      "artist_id": 13937035,
+      "artist_name": "The Weeknd",
+      "artist_name_translation_list": [
+        {
+          "artist_name_translation": {
+            "language": "JA",
+            "translation": "ザ・ウィークエンド"
+          }
+        }
+      ],
+      "artist_comment": "",
+      "artist_country": "CA",
+      "artist_alias_list": [
+        { "artist_alias": "ザ・ウィークエンド" },
+        { "artist_alias": "The Weekend" }
+      ],
+      "artist_rating": 100,
+      "artist_twitter_url": "https://twitter.com/theweekndxo",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2017-01-28T07:00:26Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 360257,
+      "artist_name": "Luke Bryan",
+      "artist_name_translation_list": [
+        {
+          "artist_name_translation": {
+            "language": "JA",
+            "translation": "ルーク・ブライアン"
+          }
+        }
+      ],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [{ "artist_alias": "ルーク・ブライアン" }],
+      "artist_rating": 72,
+      "artist_twitter_url": "https://twitter.com/lukebryanonline",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2013-11-05T11:28:47Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 156,
+      "artist_name": "Chris Cornell",
+      "artist_name_translation_list": [
+        {
+          "artist_name_translation": {
+            "language": "JA",
+            "translation": "クリス・コーネル"
+          }
+        }
+      ],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [{ "artist_alias": "クリス・コーネル" }],
+      "artist_rating": 67,
+      "artist_twitter_url": "https://twitter.com/chriscornell",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2017-05-18T09:29:44Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 150228,
+      "artist_name": "Jason Aldean",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [{ "artist_alias": "ジェイソン・アルディーン" }],
+      "artist_rating": 70,
+      "artist_twitter_url": "https://twitter.com/Jason_aldean",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2017-05-09T07:19:11Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 40482878,
+      "artist_name": "SAINt JHN feat. Imanbek",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 62,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 32011704,
+              "artist_name": "SAINt JHN",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 74,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2016-08-03T10:44:20Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 40482877,
+              "artist_name": "Imanbek",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 24,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2019-10-11T13:23:17Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2019-10-11T13:23:17Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 45088972,
+      "artist_name": "Gabby Barrett feat. Charlie Puth",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 35,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 27340182,
+              "artist_name": "Gabby Barrett",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 58,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2014-03-09T17:21:12Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 24778949,
+              "artist_name": "Charlie Puth",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [{ "artist_alias": "チャーリー・プース" }],
+              "artist_rating": 82,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2015-04-17T08:25:24Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2020-04-20T01:39:36Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 13819186,
+      "artist_name": "Little Mix",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "GB",
+      "artist_alias_list": [
+        { "artist_alias": "リトルミックス" },
+        { "artist_alias": "Rhythmix" }
+      ],
+      "artist_rating": 85,
+      "artist_twitter_url": "https://twitter.com/LittleMixOffic",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2018-09-20T06:55:20Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 478014,
+      "artist_name": "Jason Derulo",
+      "artist_name_translation_list": [
+        {
+          "artist_name_translation": {
+            "language": "JA",
+            "translation": "ジェイソン・デルーロ"
+          }
+        }
+      ],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [
+        { "artist_alias": "ジェイソン・デルーロ" },
+        { "artist_alias": "jiesen deluluo" },
+        { "artist_alias": "Jason Joel Desrouleaux" },
+        { "artist_alias": "Jason Desrouleaux" },
+        { "artist_alias": "Jason Derülo" }
+      ],
+      "artist_rating": 79,
+      "artist_twitter_url": "https://twitter.com/JASONDERULO",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2016-06-30T10:07:24Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 81460,
+      "artist_name": "Miranda Lambert",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [{ "artist_alias": "ミランダ・ランバート" }],
+      "artist_rating": 64,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2013-11-05T11:27:00Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 34707394,
+      "artist_name": "Abigail Barlow",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 32,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2017-11-12T01:27:24Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 45321748,
+      "artist_name": "Lady Gaga feat. Ariana Grande",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 63,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 378462,
+              "artist_name": "Lady Gaga",
+              "artist_name_translation_list": [
+                {
+                  "artist_name_translation": {
+                    "language": "AR",
+                    "translation": "لايدي غاغا"
+                  }
+                }
+              ],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "لايدي غاغا" },
+                { "artist_alias": "レディー ガガ" },
+                { "artist_alias": "ga ga xiao jie" },
+                { "artist_alias": "Lady Ga Ga" },
+                { "artist_alias": "Stefani Joanne Angelina Germanotta" }
+              ],
+              "artist_rating": 95,
+              "artist_twitter_url": "https://twitter.com/ladygaga",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2016-07-12T10:03:30Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 40672580,
+              "artist_name": "Ariana Grande",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 82,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2019-10-19T02:54:09Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2020-05-22T10:17:30Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 45914286,
+      "artist_name": "Kane Brown feat. Swae Lee & Khalid",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 48,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 27958695,
+              "artist_name": "Kane Brown",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 68,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2015-06-03T10:01:35Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 33465240,
+              "artist_name": "Swae Lee",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [
+                { "artist_alias": "Khalif Malik Ibn Shaman Brown" }
+              ],
+              "artist_rating": 59,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2017-04-28T23:29:19Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 32569774,
+              "artist_name": "Khalid",
+              "artist_name_translation_list": [
+                {
+                  "artist_name_translation": {
+                    "language": "JA",
+                    "translation": "カリード"
+                  }
+                }
+              ],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [
+                { "artist_alias": "カリード" },
+                { "artist_alias": "Khalid Robinson" }
+              ],
+              "artist_rating": 85,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2019-01-21T13:46:20Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2020-07-10T14:31:50Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 139931,
+      "artist_name": "Sam Hunt",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [{ "artist_alias": "サム・ハント" }],
+      "artist_rating": 69,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2016-06-30T10:06:51Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 518913,
+      "artist_name": "Surfaces",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 75,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2013-06-26T10:13:25Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 12356621,
+      "artist_name": "AJR",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 74,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2015-12-09T16:50:15Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 29328675,
+      "artist_name": "Breland",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 51,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2015-12-21T21:26:22Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 386256,
+      "artist_name": "Lee Brice",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [],
+      "artist_rating": 62,
+      "artist_twitter_url": "http://twitter.com/leebrice",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2017-12-06T16:21:53Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 36313,
+      "artist_name": "Little Big Town",
+      "artist_name_translation_list": [
+        {
+          "artist_name_translation": {
+            "language": "JA",
+            "translation": "リトル・ビッグ・タウン"
+          }
+        }
+      ],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [{ "artist_alias": "リトル・ビッグ・タウン" }],
+      "artist_rating": 60,
+      "artist_twitter_url": "https://twitter.com/LBTmusic",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2015-12-09T17:38:55Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 46039405,
+      "artist_name": "J Balvin feat. Tainy, Dua Lipa & Bad Bunny",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 56,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 14160589,
+              "artist_name": "J Balvin",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "CO",
+              "artist_alias_list": [{ "artist_alias": "J.バルヴィン" }],
+              "artist_rating": 91,
+              "artist_twitter_url": "http://twitter.com/jbalvin",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2018-06-19T12:16:23Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 28445329,
+              "artist_name": "Tainy",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 1,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2015-02-19T14:08:47Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 33491593,
+              "artist_name": "Dua Lipa",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [{ "artist_alias": "デュアリパ" }],
+              "artist_rating": 95,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2017-04-28T14:30:50Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 33491954,
+              "artist_name": "Bad Bunny",
+              "artist_name_translation_list": [
+                {
+                  "artist_name_translation": {
+                    "language": "JA",
+                    "translation": "バッド・バニー"
+                  }
+                }
+              ],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [
+                { "artist_alias": "バッド・バニー" },
+                { "artist_alias": "Benito Antonio Martínez Ocasio" }
+              ],
+              "artist_rating": 93,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2017-04-28T23:18:30Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2020-07-24T00:02:26Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 33491916,
+      "artist_name": "Justin Bieber",
+      "artist_name_translation_list": [
+        {
+          "artist_name_translation": {
+            "language": "JA",
+            "translation": "ジャスティン・ビーバー"
+          }
+        },
+        {
+          "artist_name_translation": {
+            "language": "ZH",
+            "translation": "小賈斯汀"
+          }
+        }
+      ],
+      "artist_comment": "",
+      "artist_country": "CA",
+      "artist_alias_list": [
+        { "artist_alias": "ジャスティン・ビーバー" },
+        { "artist_alias": "小賈斯汀" }
+      ],
+      "artist_rating": 92,
+      "artist_twitter_url": "https://twitter.com/justinbieber",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2017-04-28T23:19:39Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 44887958,
+      "artist_name": "Thomas Rhett feat. Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 38,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 13937395,
+              "artist_name": "Thomas Rhett",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [{ "artist_alias": "ThomasRhett" }],
+              "artist_rating": 68,
+              "artist_twitter_url": "http://twitter.com/thomasrhett",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2018-09-17T03:35:38Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 8539,
+              "artist_name": "Reba McEntire",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "リバ マッケンタイア" },
+                { "artist_alias": "Reba" },
+                { "artist_alias": "Reba McIntire" }
+              ],
+              "artist_rating": 58,
+              "artist_twitter_url": "https://twitter.com/reba",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-11-05T11:25:07Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 44887951,
+              "artist_name": "Hillary Scott",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 1,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2020-03-31T15:49:15Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 17134,
+              "artist_name": "Chris Tomlin",
+              "artist_name_translation_list": [
+                {
+                  "artist_name_translation": {
+                    "language": "JA",
+                    "translation": "クリス・トムリン"
+                  }
+                }
+              ],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [
+                { "artist_alias": "クリス・トムリン" },
+                { "artist_alias": "Chris Tomin" }
+              ],
+              "artist_rating": 64,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-11-05T11:25:25Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 10902,
+              "artist_name": "Keith Urban",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "AU",
+              "artist_alias_list": [
+                { "artist_alias": "キースアーバン" },
+                { "artist_alias": "kaisi eben" }
+              ],
+              "artist_rating": 67,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-11-05T11:25:10Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2020-03-31T15:49:25Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 27858432,
+      "artist_name": "Maddie & Tae",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [],
+      "artist_rating": 45,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 14336320,
+              "artist_name": "Maddie",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 1,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-06-26T23:47:15Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 58759,
+              "artist_name": "Tae",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 1,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2013-06-25T17:15:10Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2015-12-01T23:13:59Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 44266317,
+      "artist_name": "JP Saxe feat. Marian Hill",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 56,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 25787669,
+              "artist_name": "Jp Saxe",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 62,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2019-08-29T08:49:14Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 26256020,
+              "artist_name": "Marian Hill",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "US",
+              "artist_alias_list": [],
+              "artist_rating": 59,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2017-11-03T07:06:30Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2020-02-20T23:09:02Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 45250167,
+      "artist_name": "Chris Brown feat. Young Thug",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 58,
+      "artist_twitter_url": "",
+      "artist_credits": {
+        "artist_list": [
+          {
+            "artist": {
+              "artist_id": 33490897,
+              "artist_name": "Chris Brown",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [
+                { "artist_alias": "くりす ぶらうん" },
+                { "artist_alias": "Christopher Maurice Brown" },
+                { "artist_alias": "Chris Brown" }
+              ],
+              "artist_rating": 86,
+              "artist_twitter_url": "https://twitter.com/chrisbrown",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2017-04-28T23:16:36Z"
+            }
+          },
+          {
+            "artist": {
+              "artist_id": 40684892,
+              "artist_name": "Young Thug",
+              "artist_name_translation_list": [],
+              "artist_comment": "",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 44,
+              "artist_twitter_url": "",
+              "artist_credits": { "artist_list": [] },
+              "restricted": 0,
+              "updated_time": "2019-10-19T10:42:48Z"
+            }
+          }
+        ]
+      },
+      "restricted": 0,
+      "updated_time": "2020-05-05T21:23:57Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 37522371,
+      "artist_name": "Hardy",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 32,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2019-01-19T08:55:43Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 46042461,
+      "artist_name": "Tobe Nwigwe feat. Jabari Johnson",
       "artist_name_translation_list": [],
       "artist_comment": "",
       "artist_country": "",
@@ -140,385 +1389,175 @@
         "artist_list": [
           {
             "artist": {
-              "artist_id": 252,
-              "artist_name": "Weezer",
-              "artist_name_translation_list": [],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
-              "artist_rating": 76,
-              "artist_twitter_url": "https://twitter.com/Weezer",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2018-10-19T02:57:56Z"
-            }
-          },
-          {
-            "artist": {
-              "artist_id": 256086,
-              "artist_name": "Hayley Williams",
-              "artist_name_translation_list": [],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [
-                { "artist_alias": "Hayley Nichole Williams" }
-              ],
-              "artist_rating": 66,
-              "artist_twitter_url": "http://twitter.com/yelyahwilliams",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2013-11-05T11:27:51Z"
-            }
-          }
-        ]
-      },
-      "restricted": 0,
-      "updated_time": "2016-10-12T01:56:41Z"
-    }
-  },
-  {
-    "artist": {
-      "artist_id": 13997861,
-      "artist_name": "Weezer feat. Kenny G",
-      "artist_name_translation_list": [],
-      "artist_comment": "",
-      "artist_country": "",
-      "artist_alias_list": [],
-      "artist_rating": 9,
-      "artist_twitter_url": "",
-      "artist_credits": {
-        "artist_list": [
-          {
-            "artist": {
-              "artist_id": 252,
-              "artist_name": "Weezer",
-              "artist_name_translation_list": [],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
-              "artist_rating": 76,
-              "artist_twitter_url": "https://twitter.com/Weezer",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2018-10-19T02:57:56Z"
-            }
-          },
-          {
-            "artist": {
-              "artist_id": 6563,
-              "artist_name": "Kenny G",
-              "artist_name_translation_list": [],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [
-                { "artist_alias": "けにー・じー" },
-                { "artist_alias": "keng ni ji" },
-                { "artist_alias": "Kenny G." },
-                { "artist_alias": "Kanny G" }
-              ],
-              "artist_rating": 62,
-              "artist_twitter_url": "https://twitter.com/officialkennyg",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2018-02-02T21:01:20Z"
-            }
-          }
-        ]
-      },
-      "restricted": 0,
-      "updated_time": "2014-02-23T14:32:41Z"
-    }
-  },
-  {
-    "artist": {
-      "artist_id": 25030431,
-      "artist_name": "Weezer feat. The Cast of Jackass 3D",
-      "artist_name_translation_list": [],
-      "artist_comment": "",
-      "artist_country": "",
-      "artist_alias_list": [],
-      "artist_rating": 7,
-      "artist_twitter_url": "",
-      "artist_credits": {
-        "artist_list": [
-          {
-            "artist": {
-              "artist_id": 252,
-              "artist_name": "Weezer",
-              "artist_name_translation_list": [],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
-              "artist_rating": 76,
-              "artist_twitter_url": "https://twitter.com/Weezer",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2018-10-19T02:57:56Z"
-            }
-          },
-          {
-            "artist": {
-              "artist_id": 28992331,
-              "artist_name": "the cast of Jackass 3D",
+              "artist_id": 31945096,
+              "artist_name": "Tobe Nwigwe",
               "artist_name_translation_list": [],
               "artist_comment": "",
               "artist_country": "",
               "artist_alias_list": [],
-              "artist_rating": 1,
+              "artist_rating": 41,
               "artist_twitter_url": "",
               "artist_credits": { "artist_list": [] },
               "restricted": 0,
-              "updated_time": "2015-12-11T16:18:17Z"
-            }
-          }
-        ]
-      },
-      "restricted": 0,
-      "updated_time": "2013-12-18T22:00:21Z"
-    }
-  },
-  {
-    "artist": {
-      "artist_id": 13997866,
-      "artist_name": "Weezer feat. Allison Allport",
-      "artist_name_translation_list": [],
-      "artist_comment": "",
-      "artist_country": "",
-      "artist_alias_list": [],
-      "artist_rating": 1,
-      "artist_twitter_url": "",
-      "artist_credits": {
-        "artist_list": [
-          {
-            "artist": {
-              "artist_id": 252,
-              "artist_name": "Weezer",
-              "artist_name_translation_list": [],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
-              "artist_rating": 76,
-              "artist_twitter_url": "https://twitter.com/Weezer",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2018-10-19T02:57:56Z"
+              "updated_time": "2016-06-19T23:46:13Z"
             }
           },
           {
             "artist": {
-              "artist_id": 24909338,
-              "artist_name": "Allison Allport",
+              "artist_id": 28700759,
+              "artist_name": "Jabari Johnson",
               "artist_name_translation_list": [],
               "artist_comment": "",
               "artist_country": "",
               "artist_alias_list": [],
-              "artist_rating": 1,
+              "artist_rating": 20,
               "artist_twitter_url": "",
               "artist_credits": { "artist_list": [] },
               "restricted": 0,
-              "updated_time": "2013-12-03T14:34:38Z"
+              "updated_time": "2015-05-15T10:22:59Z"
             }
           }
         ]
       },
       "restricted": 0,
-      "updated_time": "2013-06-26T10:07:50Z"
+      "updated_time": "2020-07-26T13:14:57Z"
     }
   },
   {
     "artist": {
-      "artist_id": 13786247,
-      "artist_name": "Weezer vs. Evidence feat. The Alchemist, Aceyalone, Rakaa & 88-Keys",
+      "artist_id": 37843472,
+      "artist_name": "Tones and I",
       "artist_name_translation_list": [],
       "artist_comment": "",
       "artist_country": "",
       "artist_alias_list": [],
-      "artist_rating": 6,
-      "artist_twitter_url": "",
-      "artist_credits": {
-        "artist_list": [
-          {
-            "artist": {
-              "artist_id": 252,
-              "artist_name": "Weezer",
-              "artist_name_translation_list": [],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
-              "artist_rating": 76,
-              "artist_twitter_url": "https://twitter.com/Weezer",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2018-10-19T02:57:56Z"
-            }
-          },
-          {
-            "artist": {
-              "artist_id": 19162,
-              "artist_name": "Evidence",
-              "artist_name_translation_list": [],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [{ "artist_alias": "エヴィデンス" }],
-              "artist_rating": 29,
-              "artist_twitter_url": "https://twitter.com/evidence",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2013-11-05T11:25:26Z"
-            }
-          },
-          {
-            "artist": {
-              "artist_id": 107784,
-              "artist_name": "The Alchemist",
-              "artist_name_translation_list": [],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [
-                { "artist_alias": "ザ アルケミスト" },
-                { "artist_alias": "Alchemist" }
-              ],
-              "artist_rating": 39,
-              "artist_twitter_url": "https://twitter.com/Alchemist",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2013-07-19T08:27:35Z"
-            }
-          },
-          {
-            "artist": {
-              "artist_id": 3422,
-              "artist_name": "Aceyalone",
-              "artist_name_translation_list": [
-                {
-                  "artist_name_translation": {
-                    "language": "JA",
-                    "translation": "ACEYALONE"
-                  }
-                }
-              ],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [
-                { "artist_alias": "ACEYALONE" },
-                { "artist_alias": "Aceyyalone" }
-              ],
-              "artist_rating": 25,
-              "artist_twitter_url": "https://twitter.com/Aceyalone",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2013-11-05T11:25:03Z"
-            }
-          },
-          {
-            "artist": {
-              "artist_id": 37207,
-              "artist_name": "Rakaa",
-              "artist_name_translation_list": [],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [
-                { "artist_alias": "Raaka Iriscience" },
-                { "artist_alias": "Rakka Iriscience" },
-                { "artist_alias": "Rakaa Iriscience" },
-                { "artist_alias": "Iriscience" },
-                { "artist_alias": "Rakaa-Iriscience" }
-              ],
-              "artist_rating": 9,
-              "artist_twitter_url": "",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2015-12-15T10:48:25Z"
-            }
-          },
-          {
-            "artist": {
-              "artist_id": 213253,
-              "artist_name": "88-Keys",
-              "artist_name_translation_list": [],
-              "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [
-                { "artist_alias": "88Keys" },
-                { "artist_alias": "88 Keys" }
-              ],
-              "artist_rating": 24,
-              "artist_twitter_url": "",
-              "artist_credits": { "artist_list": [] },
-              "restricted": 0,
-              "updated_time": "2013-11-29T00:15:19Z"
-            }
-          }
-        ]
-      },
-      "restricted": 0,
-      "updated_time": "2014-02-14T07:46:46Z"
-    }
-  },
-  {
-    "artist": {
-      "artist_id": 35374763,
-      "artist_name": "Weezer berlo",
-      "artist_name_translation_list": [],
-      "artist_comment": "",
-      "artist_country": "",
-      "artist_alias_list": [],
-      "artist_rating": 1,
+      "artist_rating": 86,
       "artist_twitter_url": "",
       "artist_credits": { "artist_list": [] },
       "restricted": 0,
-      "updated_time": "2018-02-17T05:31:50Z"
+      "updated_time": "2019-02-28T22:48:59Z"
     }
   },
   {
     "artist": {
-      "artist_id": 33900307,
-      "artist_name": "Vic Mensa feat. Weezer",
+      "artist_id": 34038797,
+      "artist_name": "Ava Max",
       "artist_name_translation_list": [],
       "artist_comment": "",
       "artist_country": "",
       "artist_alias_list": [],
-      "artist_rating": 15,
+      "artist_rating": 83,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2017-08-03T22:15:11Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 28444515,
+      "artist_name": "Post Malone",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [
+        { "artist_alias": "ポスト・マローン" },
+        { "artist_alias": "AUSTIN RICHARD POST" },
+        { "artist_alias": "austin post" }
+      ],
+      "artist_rating": 93,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2015-02-19T12:08:43Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 473029,
+      "artist_name": "Justin Moore",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [
+        { "artist_alias": "ジャスティンムーア" },
+        { "artist_alias": "Justin Cole Moore" }
+      ],
+      "artist_rating": 57,
+      "artist_twitter_url": "https://twitter.com/justincolemoore",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2016-11-04T23:45:07Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 45138159,
+      "artist_name": "Megan Thee Stallion feat. Beyoncé",
+      "artist_name_translation_list": [],
+      "artist_comment": "",
+      "artist_country": "",
+      "artist_alias_list": [],
+      "artist_rating": 59,
       "artist_twitter_url": "",
       "artist_credits": {
         "artist_list": [
           {
             "artist": {
-              "artist_id": 13922459,
-              "artist_name": "Vic Mensa",
+              "artist_id": 33909962,
+              "artist_name": "Megan Thee Stallion",
               "artist_name_translation_list": [],
               "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [
-                { "artist_alias": "ビックメンサ" },
-                { "artist_alias": "Victor Kwesi Mensah" }
-              ],
-              "artist_rating": 53,
-              "artist_twitter_url": "http://twitter.com/VicMensaKTD",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 80,
+              "artist_twitter_url": "",
               "artist_credits": { "artist_list": [] },
               "restricted": 0,
-              "updated_time": "2015-04-12T18:28:03Z"
+              "updated_time": "2017-07-16T23:08:40Z"
             }
           },
           {
             "artist": {
-              "artist_id": 252,
-              "artist_name": "Weezer",
+              "artist_id": 40657390,
+              "artist_name": "Beyoncé",
               "artist_name_translation_list": [],
               "artist_comment": "",
-              "artist_country": "US",
-              "artist_alias_list": [{ "artist_alias": "ウイ-ザ-" }],
-              "artist_rating": 76,
-              "artist_twitter_url": "https://twitter.com/Weezer",
+              "artist_country": "",
+              "artist_alias_list": [],
+              "artist_rating": 79,
+              "artist_twitter_url": "",
               "artist_credits": { "artist_list": [] },
               "restricted": 0,
-              "updated_time": "2018-10-19T02:57:56Z"
+              "updated_time": "2019-10-18T19:40:34Z"
             }
           }
         ]
       },
       "restricted": 0,
-      "updated_time": "2017-07-27T14:15:49Z"
+      "updated_time": "2020-04-29T19:27:18Z"
+    }
+  },
+  {
+    "artist": {
+      "artist_id": 230781,
+      "artist_name": "Eric Church",
+      "artist_name_translation_list": [
+        {
+          "artist_name_translation": {
+            "language": "JA",
+            "translation": "エリック・チャーチ"
+          }
+        }
+      ],
+      "artist_comment": "",
+      "artist_country": "US",
+      "artist_alias_list": [{ "artist_alias": "エリック・チャーチ" }],
+      "artist_rating": 64,
+      "artist_twitter_url": "",
+      "artist_credits": { "artist_list": [] },
+      "restricted": 0,
+      "updated_time": "2013-11-05T11:27:47Z"
     }
   }
 ]

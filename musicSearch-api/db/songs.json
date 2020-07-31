@@ -1,58 +1,58 @@
 [
   {
     "track": {
-      "track_id": 18316166,
-      "track_name": "Butterfly",
+      "track_id": 200362255,
+      "track_name": "Happy Anywhere (feat. Gwen Stefani)",
       "track_name_translation_list": [],
-      "track_rating": 6,
-      "commontrack_id": 11337442,
+      "track_rating": 99,
+      "commontrack_id": 113838816,
       "instrumental": 0,
       "explicit": 0,
-      "has_lyrics": 0,
-      "has_subtitles": 0,
-      "has_richsync": 0,
-      "num_favourite": 0,
-      "album_id": 11041287,
-      "album_name": "Download to Donate for Haiti",
-      "artist_id": 13997866,
-      "artist_name": "Weezer feat. Allison Allport",
-      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-feat-Allison-Allport/Butterfly?utm_source=application&utm_campaign=api&utm_medium=",
-      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-feat-Allison-Allport/Butterfly/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 10,
+      "album_id": 39279286,
+      "album_name": "Happy Anywhere (feat. Gwen Stefani) - Single",
+      "artist_id": 42721286,
+      "artist_name": "Blake Shelton feat. Gwen Stefani",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Blake-Shelton-Gwen-Stefani/Happy-Anywhere-Gwen-Stefani?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Blake-Shelton-Gwen-Stefani/Happy-Anywhere-Gwen-Stefani/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
       "restricted": 0,
-      "updated_time": "2012-09-19T14:37:50Z",
+      "updated_time": "2020-07-27T06:54:59Z",
       "primary_genres": { "music_genre_list": [] }
     }
   },
   {
     "track": {
-      "track_id": 145960912,
-      "track_name": "Love doumani",
+      "track_id": 200363641,
+      "track_name": "Nobody's Love",
       "track_name_translation_list": [],
-      "track_rating": 1,
-      "commontrack_id": 81043628,
+      "track_rating": 99,
+      "commontrack_id": 113839816,
       "instrumental": 0,
       "explicit": 0,
-      "has_lyrics": 0,
-      "has_subtitles": 0,
-      "has_richsync": 0,
-      "num_favourite": 0,
-      "album_id": 28192866,
-      "album_name": "La réussite",
-      "artist_id": 35374763,
-      "artist_name": "Weezer berlo",
-      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Love-doumani?utm_source=application&utm_campaign=api&utm_medium=",
-      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Love-doumani/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 37,
+      "album_id": 39279714,
+      "album_name": "Nobody's Love - Single",
+      "artist_id": 27840,
+      "artist_name": "Maroon 5",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Maroon-5-3/Nobody-s-Love?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Maroon-5-3/Nobody-s-Love/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
       "restricted": 0,
-      "updated_time": "2018-02-17T05:32:05Z",
+      "updated_time": "2020-07-27T14:25:06Z",
       "primary_genres": {
         "music_genre_list": [
           {
             "music_genre": {
-              "music_genre_id": 19,
-              "music_genre_parent_id": 34,
-              "music_genre_name": "World",
-              "music_genre_name_extended": "World",
-              "music_genre_vanity": "World"
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
             }
           }
         ]
@@ -61,34 +61,34 @@
   },
   {
     "track": {
-      "track_id": 145960904,
-      "track_name": "Almami gariko",
+      "track_id": 200363610,
+      "track_name": "the 1",
       "track_name_translation_list": [],
-      "track_rating": 1,
-      "commontrack_id": 81043633,
+      "track_rating": 100,
+      "commontrack_id": 113839785,
       "instrumental": 0,
-      "explicit": 0,
-      "has_lyrics": 0,
-      "has_subtitles": 0,
-      "has_richsync": 0,
-      "num_favourite": 0,
-      "album_id": 28192866,
-      "album_name": "La réussite",
-      "artist_id": 35374763,
-      "artist_name": "Weezer berlo",
-      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Almami-gariko?utm_source=application&utm_campaign=api&utm_medium=",
-      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Almami-gariko/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 126,
+      "album_id": 39279712,
+      "album_name": "folklore",
+      "artist_id": 259675,
+      "artist_name": "Taylor Swift",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Taylor-Swift/the-1?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Taylor-Swift/the-1/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
       "restricted": 0,
-      "updated_time": "2018-02-17T05:32:05Z",
+      "updated_time": "2020-07-27T14:19:46Z",
       "primary_genres": {
         "music_genre_list": [
           {
             "music_genre": {
-              "music_genre_id": 19,
-              "music_genre_parent_id": 34,
-              "music_genre_name": "World",
-              "music_genre_name_extended": "World",
-              "music_genre_vanity": "World"
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
             }
           }
         ]
@@ -97,34 +97,58 @@
   },
   {
     "track": {
-      "track_id": 145960914,
-      "track_name": "Hombory rap tigui",
+      "track_id": 200363613,
+      "track_name": "exile (feat. Bon Iver)",
       "track_name_translation_list": [],
-      "track_rating": 1,
-      "commontrack_id": 81043625,
+      "track_rating": 100,
+      "commontrack_id": 113839788,
       "instrumental": 0,
       "explicit": 0,
-      "has_lyrics": 0,
-      "has_subtitles": 0,
-      "has_richsync": 0,
-      "num_favourite": 0,
-      "album_id": 28192866,
-      "album_name": "La réussite",
-      "artist_id": 35374763,
-      "artist_name": "Weezer berlo",
-      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Hombory-rap-tigui?utm_source=application&utm_campaign=api&utm_medium=",
-      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Hombory-rap-tigui/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 145,
+      "album_id": 39279712,
+      "album_name": "folklore",
+      "artist_id": 46039579,
+      "artist_name": "Taylor Swift feat. Bon Iver",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Taylor-Swift-Bon-Iver/exile-Bon-Iver?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Taylor-Swift-Bon-Iver/exile-Bon-Iver/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
       "restricted": 0,
-      "updated_time": "2018-02-17T05:32:05Z",
+      "updated_time": "2020-07-24T07:10:41Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 200363611,
+      "track_name": "cardigan",
+      "track_name_translation_list": [],
+      "track_rating": 100,
+      "commontrack_id": 113839786,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 212,
+      "album_id": 39279712,
+      "album_name": "folklore",
+      "artist_id": 259675,
+      "artist_name": "Taylor Swift",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Taylor-Swift/cardigan?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Taylor-Swift/cardigan/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-30T08:05:21Z",
       "primary_genres": {
         "music_genre_list": [
           {
             "music_genre": {
-              "music_genre_id": 19,
-              "music_genre_parent_id": 34,
-              "music_genre_name": "World",
-              "music_genre_name_extended": "World",
-              "music_genre_vanity": "World"
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
             }
           }
         ]
@@ -133,34 +157,58 @@
   },
   {
     "track": {
-      "track_id": 145960903,
-      "track_name": "31paw",
+      "track_id": 198421234,
+      "track_name": "Savage Love (Laxed - Siren Beat)",
       "track_name_translation_list": [],
-      "track_rating": 1,
-      "commontrack_id": 81043634,
+      "track_rating": 100,
+      "commontrack_id": 112136372,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 497,
+      "album_id": 38617941,
+      "album_name": "Savage Love (Laxed - Siren Beat) - Single",
+      "artist_id": 45643815,
+      "artist_name": "Jawsh 685 feat. Jason Derulo",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Jawsh-685-Jason-Derulo/Savage-Love-Laxed-Siren-Beat?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Jawsh-685-Jason-Derulo/Savage-Love-Laxed-Siren-Beat/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-09T13:06:43Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 194169151,
+      "track_name": "Blinding Lights",
+      "track_name_translation_list": [],
+      "track_rating": 100,
+      "commontrack_id": 104185748,
       "instrumental": 0,
       "explicit": 0,
-      "has_lyrics": 0,
-      "has_subtitles": 0,
-      "has_richsync": 0,
-      "num_favourite": 0,
-      "album_id": 28192866,
-      "album_name": "La réussite",
-      "artist_id": 35374763,
-      "artist_name": "Weezer berlo",
-      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/31paw?utm_source=application&utm_campaign=api&utm_medium=",
-      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/31paw/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 5675,
+      "album_id": 37216011,
+      "album_name": "After Hours",
+      "artist_id": 13937035,
+      "artist_name": "The Weeknd",
+      "track_share_url": "https://www.musixmatch.com/lyrics/The-Weeknd-3/Blinding-Lights?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/The-Weeknd-3/Blinding-Lights/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
       "restricted": 0,
-      "updated_time": "2018-02-17T05:32:05Z",
+      "updated_time": "2020-07-09T11:24:05Z",
       "primary_genres": {
         "music_genre_list": [
           {
             "music_genre": {
-              "music_genre_id": 19,
+              "music_genre_id": 7,
               "music_genre_parent_id": 34,
-              "music_genre_name": "World",
-              "music_genre_name_extended": "World",
-              "music_genre_vanity": "World"
+              "music_genre_name": "Electronic",
+              "music_genre_name_extended": "Electronic",
+              "music_genre_vanity": "Electronic"
             }
           }
         ]
@@ -169,34 +217,34 @@
   },
   {
     "track": {
-      "track_id": 145960907,
-      "track_name": "Bara débé monai bo",
+      "track_id": 192324206,
+      "track_name": "One Margarita",
       "track_name_translation_list": [],
-      "track_rating": 1,
-      "commontrack_id": 81043632,
+      "track_rating": 98,
+      "commontrack_id": 107705631,
       "instrumental": 0,
       "explicit": 0,
-      "has_lyrics": 0,
-      "has_subtitles": 0,
-      "has_richsync": 0,
-      "num_favourite": 0,
-      "album_id": 28192866,
-      "album_name": "La réussite",
-      "artist_id": 35374763,
-      "artist_name": "Weezer berlo",
-      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Bara-d%C3%A9b%C3%A9-monai-bo?utm_source=application&utm_campaign=api&utm_medium=",
-      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Bara-d%C3%A9b%C3%A9-monai-bo/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 67,
+      "album_id": 36710192,
+      "album_name": "Born Here Live Here Die Here",
+      "artist_id": 360257,
+      "artist_name": "Luke Bryan",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Luke-Bryan/One-Margarita?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Luke-Bryan/One-Margarita/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
       "restricted": 0,
-      "updated_time": "2018-02-17T05:32:05Z",
+      "updated_time": "2020-03-13T08:54:41Z",
       "primary_genres": {
         "music_genre_list": [
           {
             "music_genre": {
-              "music_genre_id": 19,
-              "music_genre_parent_id": 34,
-              "music_genre_name": "World",
-              "music_genre_name_extended": "World",
-              "music_genre_vanity": "World"
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
             }
           }
         ]
@@ -205,34 +253,82 @@
   },
   {
     "track": {
-      "track_id": 145960909,
-      "track_name": "Ils n'ont pas le niveau",
+      "track_id": 189626475,
+      "track_name": "Watermelon Sugar",
       "track_name_translation_list": [],
-      "track_rating": 1,
-      "commontrack_id": 81043626,
+      "track_rating": 100,
+      "commontrack_id": 104939195,
       "instrumental": 0,
       "explicit": 0,
-      "has_lyrics": 0,
-      "has_subtitles": 0,
-      "has_richsync": 0,
-      "num_favourite": 0,
-      "album_id": 28192866,
-      "album_name": "La réussite",
-      "artist_id": 35374763,
-      "artist_name": "Weezer berlo",
-      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Ils-n-ont-pas-le-niveau?utm_source=application&utm_campaign=api&utm_medium=",
-      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/Ils-n-ont-pas-le-niveau/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 585,
+      "album_id": 36101498,
+      "album_name": "Fine Line",
+      "artist_id": 24505463,
+      "artist_name": "Harry Styles",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Harry-Styles/Watermelon-Sugar-2?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Harry-Styles/Watermelon-Sugar-2/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
       "restricted": 0,
-      "updated_time": "2018-02-17T05:32:05Z",
+      "updated_time": "2019-12-12T16:57:16Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 195445553,
+      "track_name": "ROCKSTAR (feat. Roddy Ricch)",
+      "track_name_translation_list": [],
+      "track_rating": 99,
+      "commontrack_id": 109586143,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 710,
+      "album_id": 37641727,
+      "album_name": "BLAME IT ON BABY",
+      "artist_id": 45035319,
+      "artist_name": "DaBaby feat. Roddy Ricch",
+      "track_share_url": "https://www.musixmatch.com/lyrics/DaBaby-Roddy-Ricch/ROCKSTAR-Roddy-Ricch?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/DaBaby-Roddy-Ricch/ROCKSTAR-Roddy-Ricch/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-22T12:43:00Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 200340862,
+      "track_name": "Patience",
+      "track_name_translation_list": [],
+      "track_rating": 98,
+      "commontrack_id": 113824017,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 0,
+      "num_favourite": 7,
+      "album_id": 39273295,
+      "album_name": "Patience - Single",
+      "artist_id": 156,
+      "artist_name": "Chris Cornell",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Chris-Cornell/Patience?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Chris-Cornell/Patience/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-21T20:15:22Z",
       "primary_genres": {
         "music_genre_list": [
           {
             "music_genre": {
-              "music_genre_id": 19,
-              "music_genre_parent_id": 34,
-              "music_genre_name": "World",
-              "music_genre_name_extended": "World",
-              "music_genre_vanity": "World"
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
             }
           }
         ]
@@ -241,34 +337,34 @@
   },
   {
     "track": {
-      "track_id": 145960902,
-      "track_name": "L'avant goût",
+      "track_id": 188323103,
+      "track_name": "Got What I Got",
       "track_name_translation_list": [],
       "track_rating": 1,
-      "commontrack_id": 81043629,
+      "commontrack_id": 103596792,
       "instrumental": 0,
-      "explicit": 0,
-      "has_lyrics": 0,
-      "has_subtitles": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
       "has_richsync": 0,
-      "num_favourite": 0,
-      "album_id": 28192866,
-      "album_name": "La réussite",
-      "artist_id": 35374763,
-      "artist_name": "Weezer berlo",
-      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/L-avant-go%C3%BBt?utm_source=application&utm_campaign=api&utm_medium=",
-      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/L-avant-go%C3%BBt/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "num_favourite": 4,
+      "album_id": 34581906,
+      "album_name": "9",
+      "artist_id": 150228,
+      "artist_name": "Jason Aldean",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Jason-Aldean/Got-What-I-Got-2?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Jason-Aldean/Got-What-I-Got-2/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
       "restricted": 0,
-      "updated_time": "2018-02-17T05:32:05Z",
+      "updated_time": "2020-05-03T20:52:20Z",
       "primary_genres": {
         "music_genre_list": [
           {
             "music_genre": {
-              "music_genre_id": 19,
-              "music_genre_parent_id": 34,
-              "music_genre_name": "World",
-              "music_genre_name_extended": "World",
-              "music_genre_vanity": "World"
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
             }
           }
         ]
@@ -277,34 +373,58 @@
   },
   {
     "track": {
-      "track_id": 145960905,
-      "track_name": "An be bo",
+      "track_id": 183885253,
+      "track_name": "Roses - Imanbek Remix",
       "track_name_translation_list": [],
-      "track_rating": 1,
-      "commontrack_id": 81043630,
+      "track_rating": 99,
+      "commontrack_id": 100333438,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 265,
+      "album_id": 34856945,
+      "album_name": "Roses (Imanbek Remix) - Single",
+      "artist_id": 40482878,
+      "artist_name": "SAINt JHN feat. Imanbek",
+      "track_share_url": "https://www.musixmatch.com/lyrics/SAINt-JHN/Roses-Imanbek-Remix?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/SAINt-JHN/Roses-Imanbek-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-22T10:42:36Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 198472203,
+      "track_name": "I Hope (feat. Charlie Puth)",
+      "track_name_translation_list": [],
+      "track_rating": 98,
+      "commontrack_id": 110047550,
       "instrumental": 0,
       "explicit": 0,
-      "has_lyrics": 0,
-      "has_subtitles": 0,
-      "has_richsync": 0,
-      "num_favourite": 0,
-      "album_id": 28192866,
-      "album_name": "La réussite",
-      "artist_id": 35374763,
-      "artist_name": "Weezer berlo",
-      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/An-be-bo?utm_source=application&utm_campaign=api&utm_medium=",
-      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/An-be-bo/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 15,
+      "album_id": 38635289,
+      "album_name": "Goldmine",
+      "artist_id": 45088972,
+      "artist_name": "Gabby Barrett feat. Charlie Puth",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Gabby-Barrett/I-Hope-Charlie-Puth?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Gabby-Barrett/I-Hope-Charlie-Puth/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
       "restricted": 0,
-      "updated_time": "2018-02-17T05:32:05Z",
+      "updated_time": "2020-06-24T10:14:37Z",
       "primary_genres": {
         "music_genre_list": [
           {
             "music_genre": {
-              "music_genre_id": 19,
-              "music_genre_parent_id": 34,
-              "music_genre_name": "World",
-              "music_genre_name_extended": "World",
-              "music_genre_vanity": "World"
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
             }
           }
         ]
@@ -313,38 +433,1232 @@
   },
   {
     "track": {
-      "track_id": 145960911,
-      "track_name": "La réussite",
+      "track_id": 200359629,
+      "track_name": "Holiday",
       "track_name_translation_list": [],
-      "track_rating": 1,
-      "commontrack_id": 81043627,
+      "track_rating": 99,
+      "commontrack_id": 113837084,
       "instrumental": 0,
       "explicit": 0,
-      "has_lyrics": 0,
-      "has_subtitles": 0,
-      "has_richsync": 0,
-      "num_favourite": 0,
-      "album_id": 28192866,
-      "album_name": "La réussite",
-      "artist_id": 35374763,
-      "artist_name": "Weezer berlo",
-      "track_share_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/La-r%C3%A9ussite?utm_source=application&utm_campaign=api&utm_medium=",
-      "track_edit_url": "https://www.musixmatch.com/lyrics/Weezer-berlo/La-r%C3%A9ussite/edit?utm_source=application&utm_campaign=api&utm_medium=",
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 23,
+      "album_id": 39278640,
+      "album_name": "Holiday - Single",
+      "artist_id": 13819186,
+      "artist_name": "Little Mix",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Little-Mix/Holiday?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Little-Mix/Holiday/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
       "restricted": 0,
-      "updated_time": "2018-02-17T05:32:05Z",
+      "updated_time": "2020-07-24T13:04:30Z",
       "primary_genres": {
         "music_genre_list": [
           {
             "music_genre": {
-              "music_genre_id": 19,
-              "music_genre_parent_id": 34,
-              "music_genre_name": "World",
-              "music_genre_name_extended": "World",
-              "music_genre_vanity": "World"
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
             }
           }
         ]
       }
+    }
+  },
+  {
+    "track": {
+      "track_id": 200187723,
+      "track_name": "Take You Dancing",
+      "track_name_translation_list": [],
+      "track_rating": 98,
+      "commontrack_id": 113835024,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 29,
+      "album_id": 39216864,
+      "album_name": "Take You Dancing - Single",
+      "artist_id": 478014,
+      "artist_name": "Jason Derulo",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Jason-Derulo/Take-You-Dancing?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Jason-Derulo/Take-You-Dancing/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-24T04:34:18Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 181429208,
+      "track_name": "Bluebird",
+      "track_name_translation_list": [],
+      "track_rating": 98,
+      "commontrack_id": 98954902,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 37,
+      "album_id": 34327144,
+      "album_name": "Wildcard",
+      "artist_id": 81460,
+      "artist_name": "Miranda Lambert",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Miranda-Lambert/Bluebird?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Miranda-Lambert/Bluebird/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-29T15:23:07Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 1042,
+              "music_genre_parent_id": 6,
+              "music_genre_name": "Traditional Country",
+              "music_genre_name_extended": "Country / Traditional Country",
+              "music_genre_vanity": "Country-Traditional-Country"
+            }
+          },
+          {
+            "music_genre": {
+              "music_genre_id": 6,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "Country",
+              "music_genre_name_extended": "Country",
+              "music_genre_vanity": "Country"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 200341470,
+      "track_name": "Heartbreak Hotel",
+      "track_name_translation_list": [],
+      "track_rating": 96,
+      "commontrack_id": 113841773,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 39273444,
+      "album_name": "Heartbreak Hotel - Single",
+      "artist_id": 34707394,
+      "artist_name": "Abigail Barlow",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Abigail-Barlow-2/Heartbreak-Hotel?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Abigail-Barlow-2/Heartbreak-Hotel/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-28T18:16:57Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 23,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "Vocal",
+              "music_genre_name_extended": "Vocal",
+              "music_genre_vanity": "Vocal"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 197601982,
+      "track_name": "Rain On Me",
+      "track_name_translation_list": [],
+      "track_rating": 100,
+      "commontrack_id": 110733426,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 749,
+      "album_id": 38397285,
+      "album_name": "Chromatica",
+      "artist_id": 45321748,
+      "artist_name": "Lady Gaga feat. Ariana Grande",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Lady-Gaga-Ariana-Grande/Rain-On-Me-with-Ariana-Grande?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Lady-Gaga-Ariana-Grande/Rain-On-Me-with-Ariana-Grande/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-22T13:01:30Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 187880919,
+      "track_name": "Before You Go",
+      "track_name_translation_list": [],
+      "track_rating": 98,
+      "commontrack_id": 103153140,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 267,
+      "album_id": 35611759,
+      "album_name": "Divinely Uninspired To a Hellish Extent (Extended Edition)",
+      "artist_id": 33258132,
+      "artist_name": "Lewis Capaldi",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Lewis-Capaldi/Before-You-Go-1?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Lewis-Capaldi/Before-You-Go-1/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2019-11-20T08:44:05Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 189638671,
+      "track_name": "Nobody But You (feat. Gwen Stefani)",
+      "track_name_translation_list": [],
+      "track_rating": 95,
+      "commontrack_id": 104951766,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 168,
+      "album_id": 36103048,
+      "album_name": "Fully Loaded: God's Country",
+      "artist_id": 15507,
+      "artist_name": "Blake Shelton",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Blake-Shelton-Gwen-Stefani/Nobody-But-You-Duet-with-Gwen-Stefani?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Blake-Shelton-Gwen-Stefani/Nobody-But-You-Duet-with-Gwen-Stefani/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-02-17T11:12:12Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 199762978,
+      "track_name": "Be Like That - feat. Swae Lee & Khalid",
+      "track_name_translation_list": [],
+      "track_rating": 97,
+      "commontrack_id": 113306113,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 0,
+      "num_favourite": 23,
+      "album_id": 39081532,
+      "album_name": "Be Like That - Single",
+      "artist_id": 45914286,
+      "artist_name": "Kane Brown feat. Swae Lee & Khalid",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Kane-Brown-Swae-Lee-Khalid/Be-Like-That-Swae-Lee-Khalid?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Kane-Brown-Swae-Lee-Khalid/Be-Like-That-Swae-Lee-Khalid/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-30T07:32:09Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 194170326,
+      "track_name": "Hard to Forget",
+      "track_name_translation_list": [],
+      "track_rating": 97,
+      "commontrack_id": 106881317,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 58,
+      "album_id": 25386733,
+      "album_name": "SOUTHSIDE",
+      "artist_id": 139931,
+      "artist_name": "Sam Hunt",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Sam-Hunt/Hard-To-Forget?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Sam-Hunt/Hard-To-Forget/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-04-03T05:42:44Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          },
+          {
+            "music_genre": {
+              "music_genre_id": 6,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "Country",
+              "music_genre_name_extended": "Country",
+              "music_genre_vanity": "Country"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 163386174,
+      "track_name": "Sunday Best",
+      "track_name_translation_list": [],
+      "track_rating": 97,
+      "commontrack_id": 91193200,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 829,
+      "album_id": 31054151,
+      "album_name": "Where the Light Is",
+      "artist_id": 518913,
+      "artist_name": "Surfaces",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Surfaces/Sunday-Best?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Surfaces/Sunday-Best/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-04-02T08:11:26Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 15,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "R&B/Soul",
+              "music_genre_name_extended": "R&B/Soul",
+              "music_genre_vanity": "R-B-Soul"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 192168242,
+      "track_name": "Bang!",
+      "track_name_translation_list": [],
+      "track_rating": 96,
+      "commontrack_id": 106938510,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 87,
+      "album_id": 36666766,
+      "album_name": "Bang!",
+      "artist_id": 12356621,
+      "artist_name": "AJR",
+      "track_share_url": "https://www.musixmatch.com/lyrics/AJR/Bang?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/AJR/Bang/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-02-12T14:46:55Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 200357565,
+      "track_name": "The Climb Back",
+      "track_name_translation_list": [],
+      "track_rating": 96,
+      "commontrack_id": 113835591,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 36,
+      "album_id": 39278073,
+      "album_name": "Lewis Street",
+      "artist_id": 486280,
+      "artist_name": "J. Cole",
+      "track_share_url": "https://www.musixmatch.com/lyrics/J-Cole/The-Climb-Back?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/J-Cole/The-Climb-Back/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-23T14:02:17Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 196128514,
+      "track_name": "One of Them Girls",
+      "track_name_translation_list": [],
+      "track_rating": 97,
+      "commontrack_id": 109404621,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 12,
+      "album_id": 37870498,
+      "album_name": "One of Them Girls - Single",
+      "artist_id": 386256,
+      "artist_name": "Lee Brice",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Lee-Brice/One-Of-Them-Girls?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Lee-Brice/One-Of-Them-Girls/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-04-16T09:10:11Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 148793484,
+      "track_name": "Chasin' You",
+      "track_name_translation_list": [],
+      "track_rating": 96,
+      "commontrack_id": 82717082,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 60,
+      "album_id": 28650479,
+      "album_name": "If I Know Me",
+      "artist_id": 27082035,
+      "artist_name": "Morgan Wallen",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Morgan-Wallen/Chasin-You?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Morgan-Wallen/Chasin-You/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-23T17:52:53Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 1161,
+              "music_genre_parent_id": 21,
+              "music_genre_name": "Southern Rock",
+              "music_genre_name_extended": "Rock / Southern Rock",
+              "music_genre_vanity": "Rock-Southern-Rock"
+            }
+          },
+          {
+            "music_genre": {
+              "music_genre_id": 6,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "Country",
+              "music_genre_name_extended": "Country",
+              "music_genre_vanity": "Country"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 188977836,
+      "track_name": "Wine, Beer, Whiskey",
+      "track_name_translation_list": [],
+      "track_rating": 96,
+      "commontrack_id": 104516156,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 2,
+      "album_id": 31931665,
+      "album_name": "Nightfall",
+      "artist_id": 36313,
+      "artist_name": "Little Big Town",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Little-Big-Town/Wine-Beer-Whiskey?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Little-Big-Town/Wine-Beer-Whiskey/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-01-27T08:02:24Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 200362544,
+      "track_name": "UN DIA (ONE DAY)",
+      "track_name_translation_list": [],
+      "track_rating": 100,
+      "commontrack_id": 113839072,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 112,
+      "album_id": 39279405,
+      "album_name": "UN DIA (ONE DAY) - Single",
+      "artist_id": 46039405,
+      "artist_name": "J Balvin feat. Tainy, Dua Lipa & Bad Bunny",
+      "track_share_url": "https://www.musixmatch.com/lyrics/J-Balvin-Tainy-Dua-Lipa-Bad-Bunny/UN-DIA-ONE-DAY-Tainy?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/J-Balvin-Tainy-Dua-Lipa-Bad-Bunny/UN-DIA-ONE-DAY-Tainy/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-28T01:41:14Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 192206835,
+      "track_name": "Intentions (feat. Quavo)",
+      "track_name_translation_list": [],
+      "track_rating": 97,
+      "commontrack_id": 106881942,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 2832,
+      "album_id": 36270367,
+      "album_name": "R&Bieber - EP",
+      "artist_id": 33491916,
+      "artist_name": "Justin Bieber",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Justin-Bieber-Quavo/Intentions?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Justin-Bieber-Quavo/Intentions/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-22T13:39:46Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 194697610,
+      "track_name": "Be a Light (feat. Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban)",
+      "track_name_translation_list": [],
+      "track_rating": 95,
+      "commontrack_id": 108977709,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 33,
+      "album_id": 37399132,
+      "album_name": "Be a Light (feat. Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban) - Single",
+      "artist_id": 44887958,
+      "artist_name": "Thomas Rhett feat. Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Thomas-Rhett-Reba-McEntire-Hillary-Scott-Chris-Tomlin-Keith-Urban/Be-A-Light?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Thomas-Rhett-Reba-McEntire-Hillary-Scott-Chris-Tomlin-Keith-Urban/Be-A-Light/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-29T08:50:24Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 194728740,
+      "track_name": "Die From A Broken Heart",
+      "track_name_translation_list": [],
+      "track_rating": 95,
+      "commontrack_id": 88816764,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 86,
+      "album_id": 37406850,
+      "album_name": "The Way It Feels",
+      "artist_id": 27858432,
+      "artist_name": "Maddie & Tae",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Maddie-Tae-2/Die-From-A-Broken-Heart?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Maddie-Tae-2/Die-From-A-Broken-Heart/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-10T14:07:33Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 1042,
+              "music_genre_parent_id": 6,
+              "music_genre_name": "Traditional Country",
+              "music_genre_name_extended": "Country / Traditional Country",
+              "music_genre_vanity": "Country-Traditional-Country"
+            }
+          },
+          {
+            "music_genre": {
+              "music_genre_id": 6,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "Country",
+              "music_genre_name_extended": "Country",
+              "music_genre_vanity": "Country"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 186093471,
+      "track_name": "If the World Was Ending (feat. Julia Michaels)",
+      "track_name_translation_list": [],
+      "track_rating": 95,
+      "commontrack_id": 101769674,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 826,
+      "album_id": 35457170,
+      "album_name": "If the World Was Ending (feat. Julia Michaels) - Single",
+      "artist_id": 44266317,
+      "artist_name": "JP Saxe feat. Marian Hill",
+      "track_share_url": "https://www.musixmatch.com/lyrics/JP-Saxe-Julia-Michaels/If-The-World-Was-Ending-Julia-Michaels?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/JP-Saxe-Julia-Michaels/If-The-World-Was-Ending-Julia-Michaels/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-23T11:31:34Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 196380884,
+      "track_name": "Go Crazy",
+      "track_name_translation_list": [],
+      "track_rating": 99,
+      "commontrack_id": 110400385,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 296,
+      "album_id": 37954675,
+      "album_name": "Slime & B",
+      "artist_id": 45250167,
+      "artist_name": "Chris Brown feat. Young Thug",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Chris-Brown-Young-Thug/Go-Crazy?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Chris-Brown-Young-Thug/Go-Crazy/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-26T12:01:44Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 200374475,
+      "track_name": "GIVE HEAVEN SOME HELL",
+      "track_name_translation_list": [],
+      "track_rating": 95,
+      "commontrack_id": 113848082,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 39283760,
+      "album_name": "GIVE HEAVEN SOME HELL",
+      "artist_id": 37522371,
+      "artist_name": "Hardy",
+      "track_share_url": "https://www.musixmatch.com/lyrics/HARDY-12/GIVE-HEAVEN-SOME-HELL?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/HARDY-12/GIVE-HEAVEN-SOME-HELL/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-27T16:49:51Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 195483982,
+      "track_name": "More than My Hometown",
+      "track_name_translation_list": [],
+      "track_rating": 95,
+      "commontrack_id": 109613513,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 12,
+      "album_id": 37653681,
+      "album_name": "More than My Hometown - Single",
+      "artist_id": 27082035,
+      "artist_name": "Morgan Wallen",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Morgan-Wallen/More-Than-My-Hometown?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Morgan-Wallen/More-Than-My-Hometown/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-05-01T06:26:31Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 200187374,
+      "track_name": "POPSTAR (feat. Drake)",
+      "track_name_translation_list": [],
+      "track_rating": 97,
+      "commontrack_id": 113684105,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 8,
+      "album_id": 39216808,
+      "album_name": "POPSTAR (feat. Drake) - Single",
+      "artist_id": 24704782,
+      "artist_name": "DJ Khaled feat. Drake, Lil Wayne & Rick Ross",
+      "track_share_url": "https://www.musixmatch.com/lyrics/DJ-Khaled-feat-Drake-Lil-Wayne-Rick-Ross/POPSTAR-Drake?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/DJ-Khaled-feat-Drake-Lil-Wayne-Rick-Ross/POPSTAR-Drake/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-17T13:38:30Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 200375535,
+      "track_name": "TRY JESUS",
+      "track_name_translation_list": [],
+      "track_rating": 94,
+      "commontrack_id": 113848887,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 39284191,
+      "album_name": "TRY JESUS",
+      "artist_id": 46042461,
+      "artist_name": "Tobe Nwigwe feat. Jabari Johnson",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Tobe-Nwigwe-Jabari-Johnson/TRY-JESUS?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Tobe-Nwigwe-Jabari-Johnson/TRY-JESUS/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-28T07:19:40Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 177501051,
+      "track_name": "Dance Monkey",
+      "track_name_translation_list": [],
+      "track_rating": 100,
+      "commontrack_id": 95351184,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 13259,
+      "album_id": 33595264,
+      "album_name": "The Kids Are Coming",
+      "artist_id": 37843472,
+      "artist_name": "Tones and I",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Tones-and-I/Dance-Monkey?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Tones-and-I/Dance-Monkey/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-22T10:43:04Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 20,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "Alternative",
+              "music_genre_name_extended": "Alternative",
+              "music_genre_vanity": "Alternative"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 193942829,
+      "track_name": "Kings & Queens",
+      "track_name_translation_list": [],
+      "track_rating": 98,
+      "commontrack_id": 108321812,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 304,
+      "album_id": 37141010,
+      "album_name": "Kings & Queens - Single",
+      "artist_id": 34038797,
+      "artist_name": "Ava Max",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Ava-Max/Kings-Queens?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Ava-Max/Kings-Queens/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-09T12:11:10Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 182464500,
+      "track_name": "Circles",
+      "track_name_translation_list": [],
+      "track_rating": 97,
+      "commontrack_id": 99597253,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 3809,
+      "album_id": 34513434,
+      "album_name": "Hollywood's Bleeding",
+      "artist_id": 28444515,
+      "artist_name": "Post Malone",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Post-Malone/Circles?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Post-Malone/Circles/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-26T11:16:25Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 1133,
+              "music_genre_parent_id": 14,
+              "music_genre_name": "Pop/Rock",
+              "music_genre_name_extended": "Pop / Pop/Rock",
+              "music_genre_vanity": "Pop-Pop-Rock"
+            }
+          },
+          {
+            "music_genre": {
+              "music_genre_id": 20,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "Alternative",
+              "music_genre_name_extended": "Alternative",
+              "music_genre_vanity": "Alternative"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 184014421,
+      "track_name": "Memories",
+      "track_name_translation_list": [],
+      "track_rating": 98,
+      "commontrack_id": 100364992,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 11970,
+      "album_id": 34887164,
+      "album_name": "Memories - Single",
+      "artist_id": 27840,
+      "artist_name": "Maroon 5",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Maroon-5/Memories?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Maroon-5/Memories/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-22T10:24:51Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 166598403,
+      "track_name": "Why We Drink",
+      "track_name_translation_list": [],
+      "track_rating": 94,
+      "commontrack_id": 93391053,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 0,
+      "num_favourite": 12,
+      "album_id": 31703667,
+      "album_name": "Late Nights and Longnecks",
+      "artist_id": 473029,
+      "artist_name": "Justin Moore",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Justin-Moore/Why-We-Drink?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Justin-Moore/Why-We-Drink/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-03-29T00:23:24Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 6,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "Country",
+              "music_genre_name_extended": "Country",
+              "music_genre_vanity": "Country"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 189626477,
+      "track_name": "Adore You",
+      "track_name_translation_list": [],
+      "track_rating": 97,
+      "commontrack_id": 104939197,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 1167,
+      "album_id": 36101498,
+      "album_name": "Fine Line",
+      "artist_id": 24505463,
+      "artist_name": "Harry Styles",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Harry-Styles/Adore-You-1?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Harry-Styles/Adore-You-1/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2019-12-12T16:19:53Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 195842213,
+      "track_name": "Savage Remix (feat. Beyoncé)",
+      "track_name_translation_list": [],
+      "track_rating": 94,
+      "commontrack_id": 109927689,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 252,
+      "album_id": 37763168,
+      "album_name": "Savage Remix (feat. Beyoncé) - Single",
+      "artist_id": 45138159,
+      "artist_name": "Megan Thee Stallion feat. Beyoncé",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Megan-Thee-Stallion-Beyonc%C3%A9/Savage-Beyonc%C3%A9-Remix?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Megan-Thee-Stallion-Beyonc%C3%A9/Savage-Beyonc%C3%A9-Remix/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-06-22T12:41:21Z",
+      "primary_genres": { "music_genre_list": [] }
+    }
+  },
+  {
+    "track": {
+      "track_id": 198472191,
+      "track_name": "I Hope",
+      "track_name_translation_list": [],
+      "track_rating": 94,
+      "commontrack_id": 91789190,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 214,
+      "album_id": 38635289,
+      "album_name": "Goldmine",
+      "artist_id": 27340182,
+      "artist_name": "Gabby Barrett",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Gabby-Barrett/I-Hope?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Gabby-Barrett/I-Hope/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2019-05-31T08:50:04Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 1042,
+              "music_genre_parent_id": 6,
+              "music_genre_name": "Traditional Country",
+              "music_genre_name_extended": "Country / Traditional Country",
+              "music_genre_vanity": "Country-Traditional-Country"
+            }
+          },
+          {
+            "music_genre": {
+              "music_genre_id": 6,
+              "music_genre_parent_id": 34,
+              "music_genre_name": "Country",
+              "music_genre_name_extended": "Country",
+              "music_genre_vanity": "Country"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 199409826,
+      "track_name": "Stick That In Your Country Song",
+      "track_name_translation_list": [],
+      "track_rating": 95,
+      "commontrack_id": 112995030,
+      "instrumental": 0,
+      "explicit": 0,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 0,
+      "num_favourite": 5,
+      "album_id": 38952507,
+      "album_name": "Stick That in Your Country Song - Single",
+      "artist_id": 230781,
+      "artist_name": "Eric Church",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Eric-Church/Stick-That-In-Your-Country-Song?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Eric-Church/Stick-That-In-Your-Country-Song/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-30T11:14:23Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 199728239,
+      "track_name": "Come & Go",
+      "track_name_translation_list": [],
+      "track_rating": 100,
+      "commontrack_id": 113213397,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 1,
+      "num_favourite": 95,
+      "album_id": 39068722,
+      "album_name": "Legends Never Die",
+      "artist_id": 45897498,
+      "artist_name": "Juice WRLD feat. Marshmello",
+      "track_share_url": "https://www.musixmatch.com/lyrics/Juice-WRLD-Marshmello/Come-Go-with-Marshmello?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/Juice-WRLD-Marshmello/Come-Go-with-Marshmello/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-24T09:55:02Z",
+      "primary_genres": {
+        "music_genre_list": [
+          {
+            "music_genre": {
+              "music_genre_id": 34,
+              "music_genre_parent_id": 0,
+              "music_genre_name": "Music",
+              "music_genre_name_extended": "Music",
+              "music_genre_vanity": "Music"
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "track": {
+      "track_id": 199858911,
+      "track_name": "Ah Ah Ah",
+      "track_name_translation_list": [],
+      "track_rating": 19,
+      "commontrack_id": 113393291,
+      "instrumental": 0,
+      "explicit": 1,
+      "has_lyrics": 1,
+      "has_subtitles": 1,
+      "has_richsync": 0,
+      "num_favourite": 0,
+      "album_id": 39117597,
+      "album_name": "Ah Ah Ah",
+      "artist_id": 45932754,
+      "artist_name": "DreamDoll feat. Fivio Foreign",
+      "track_share_url": "https://www.musixmatch.com/lyrics/DreamDoll-Fivio-Foreign/Ah-Ah-Ah?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "track_edit_url": "https://www.musixmatch.com/lyrics/DreamDoll-Fivio-Foreign/Ah-Ah-Ah/edit?utm_source=application&utm_campaign=api&utm_medium=Naira+Reyes%3A1409620476822",
+      "restricted": 0,
+      "updated_time": "2020-07-14T07:55:35Z",
+      "primary_genres": { "music_genre_list": [] }
     }
   }
 ]
